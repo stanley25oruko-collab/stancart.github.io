@@ -26,3 +26,19 @@ footer {
   color: #555;
   font-size: 14px;
 }
+body {
+    background: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 80px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
