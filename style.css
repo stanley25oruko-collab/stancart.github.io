@@ -19,3 +19,16 @@ footer {
   text-align: center;
   padding: 10px;
 }
+section {
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+a {
+  display: inline-block;
+  margin-top: 10px;
+  color: white;
+  background-color: black;
+  padding: 8px 12px;
+  text-decoration: none;
+  border-radius: 4px;
+}
